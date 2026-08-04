@@ -23,4 +23,11 @@ nav ul {
   border-radius: 8px;
 }
 
+.logo span {
+  position: relative;
+  bottom: 25px;
+}
 
+.logo {
+  margin-right: 10rem;
+}
